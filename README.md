@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4389A2,100:134E5E&text=Welcome%20to%20inseon's%20github!&animation=twinkling&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4389A2,100:134E5E&text=Welcome%20to%20inseon's%20github!&animation=twinkling&fontColor=0000&height=200)
 
 <!--Stats-->
 ![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270&show_icons=true&theme=dracula)
