@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,github,notion,vscode,photoshop,aftereffects)](https://skillicons.dev)
 
 ## ✏️ Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cp,python,java,html,css,js,unity)](https://skillicons.dev)
