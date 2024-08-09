@@ -17,7 +17,7 @@
 ## 📢 Contact
 <!--[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:inseonyu270@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/inseon_35)-->
-<img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=#E4405F&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=#instagram&logoColor=61DAFB" />
 
 <!--Snake-->
 <img src="https://github.com/inseonyu270/inseonyu270/blob/output/github-snake-dark.svg" width="100%">
