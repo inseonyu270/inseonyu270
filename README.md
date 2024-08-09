@@ -1,6 +1,14 @@
 <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4389A2,100:134E5E&text=Welcome%20to%20inseon's%20github!&animation=fadeIn&fontColor=f7f5f5&fontSize=50&height=200)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/inseonyu270?pet-id=605970731896518734"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--Stats-->
 
 <!--Currently-->
