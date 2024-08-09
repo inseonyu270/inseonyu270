@@ -11,8 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,python,java,html,css,js,unity)](https://skillicons.dev)
 
 ## 🏅 Github Stats
-![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact&theme=dracula)
+![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact)
 
 <!--Snake-->
 <img src="https://github.com/inseonyu270/inseonyu270/blob/output/github-snake-dark.svg" width="100%">
