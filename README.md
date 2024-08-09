@@ -12,6 +12,7 @@
 
 ## 🏅 Github Stats
 ![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270&theme=dracula&hide_border=boolean)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact&theme=dracula)
 
 <!--Snake-->
