@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,python,java,html,css,js,unity)](https://skillicons.dev)
 
 ## 🏅 Github Stats
-![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270&theme=dracula&hide_border=false)
+![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270&theme=dracula&hide_border=boolean)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact&theme=dracula)
 
 <!--Snake-->
