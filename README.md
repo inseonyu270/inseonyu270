@@ -12,6 +12,7 @@
 ## ✏️ Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=cs,python,java,html,css,js,unity)](https://skillicons.dev)
 
+## 🏅 Github Stats
 
 <!--Snake-->
 <img src="https://github.com/inseonyu270/inseonyu270/blob/output/github-snake-dark.svg" width="100%">
