@@ -17,7 +17,8 @@
 ## 📢 Contact
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:inseonyu270@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/inseon_35)
-[![My Skills](https://skillicons.dev/icons?i=discord)]()
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/wJvs3BFvWv)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://www.notion.so/inseon-s-notion-67c5e1a088df4c219798b3e65b446411?pvs=4)
 
 
 <!--Snake-->
