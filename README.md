@@ -12,7 +12,7 @@
 
 ## 🏅 Github Stats
 ![inseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyu270)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact&them=dracula)
 
 <!--Snake-->
 <img src="https://github.com/inseonyu270/inseonyu270/blob/output/github-snake-dark.svg" width="100%">
