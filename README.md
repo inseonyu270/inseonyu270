@@ -15,9 +15,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyu270&layout=compact&theme=dracula&count_private=true&card_width=200)
 
 ## 📢 Contact
-<!--[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:inseonyu270@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/inseon_35)-->
-<img src="https://img.shields.io/badge/instagram-20232a.svg?style=for-the-badge&logo=#instagram&logoColor=61DAFB" />
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:inseonyu270@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/inseon_35)
+[![My Skills](https://skillicons.dev/icons?i=discord)]()
+
 
 <!--Snake-->
 <img src="https://github.com/inseonyu270/inseonyu270/blob/output/github-snake-dark.svg" width="100%">
