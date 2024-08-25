@@ -17,7 +17,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,github,vscode,photoshop,aftereffects)](https://skillicons.dev)
 
 ## ✏️ Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=cs,python,java,html,css,js,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://github.com/inseonyu270/Python)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,unity)](https://skillicons.dev)
+
 
 ## 📢 Contact
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:inseonyu270@gmail.com)
