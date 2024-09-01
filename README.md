@@ -14,7 +14,7 @@
 
 <!--Currently-->
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/ions?i=c)](https://github.com/inseonyu270/C)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://github.com/inseonyu270/C)
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,photoshop,aftereffects)](https://skillicons.dev)
 
 ## ✏️ Currently Learning
